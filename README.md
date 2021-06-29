@@ -1,7 +1,7 @@
-# que5
+# Vue Todo
 
-Que5
+Todo App using Vue and TailwindCss.
 
-- cd to wedevs-todo folder
-- npm install
-- npm run serve
+-   cd to vue-todo folder
+-   npm install
+-   npm run serve
